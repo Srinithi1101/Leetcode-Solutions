@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
 | ------- |
