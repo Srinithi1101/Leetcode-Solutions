@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0806-number-of-lines-to-write-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,8 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
