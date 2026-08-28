@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
