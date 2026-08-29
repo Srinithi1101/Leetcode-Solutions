@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0079-word-search) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Matrix
 |  |
 | ------- |
@@ -176,4 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
