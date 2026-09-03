@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0806-number-of-lines-to-write-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -278,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -355,5 +361,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
