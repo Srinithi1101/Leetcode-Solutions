@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -157,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0980-unique-paths-iii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 ## Simulation
 |  |
@@ -241,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
