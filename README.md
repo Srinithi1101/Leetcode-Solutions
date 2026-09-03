@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0806-number-of-lines-to-write-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0980-unique-paths-iii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
+| [1046-last-stone-weight](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
