@@ -1,0 +1,34 @@
+class Solution {
+    public List<String> wordBreak(String s, List<String> wordDict) {
+        Set<String>set=new HashSet<>(wordDict);
+        Map<Integer,List<String>>memo=new HashMap<>();
+        return dfs(s,0,set,memo);
+
+        
+    }
+    private List<String>dfs(String s,int start,Set<String>set,Map<Integer,List<String>>memo){
+        if (start==s.length()){
+            return new ArrayList<>(List.of(""));
+        }
+        if (memo.containsKey(start)){
+            return memo.get(start);
+        }
+        List<String>result =new ArrayList<>();
+        for (int end=start+1;end<=s.length();end++){
+            String word=s.substring(start,end);
+            if (!set.contains(word)){
+                continue;
+            }
+            List<String>remaining=dfs(s,end,set,memo);
+            for (String next:remaining){
+                if (next.isEmpty()){
+                    result.add(word);
+                }else{
+                    result.add(word+" "+next);
+                }
+            }
+        }
+        memo.put(start,result);
+        return result;
+    }
+}
