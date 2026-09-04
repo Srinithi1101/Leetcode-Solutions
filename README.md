@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Matrix
 |  |
@@ -279,11 +280,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Coloring
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -431,4 +435,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
