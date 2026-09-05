@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -510,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
