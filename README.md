@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0980-unique-paths-iii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Matrix
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hamiltonian Path
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -337,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -440,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -458,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -482,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
