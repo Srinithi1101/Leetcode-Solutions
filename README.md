@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -108,14 +109,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -516,4 +520,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
