@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -541,8 +543,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
