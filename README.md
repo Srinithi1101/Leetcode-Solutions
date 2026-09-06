@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
@@ -532,4 +535,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
