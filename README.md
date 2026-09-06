@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
