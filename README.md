@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -508,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -526,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
