@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0493-reverse-pairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -611,4 +615,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
