@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0806-number-of-lines-to-write-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [1143-longest-common-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -589,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
