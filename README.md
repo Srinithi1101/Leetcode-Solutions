@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -682,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
