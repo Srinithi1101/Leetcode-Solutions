@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [1396-design-underground-system](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1396-design-underground-system) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0806-number-of-lines-to-write-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1143-longest-common-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1396-design-underground-system](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1396-design-underground-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [1206-design-skiplist](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1206-design-skiplist) |
+| [1396-design-underground-system](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Iterator
