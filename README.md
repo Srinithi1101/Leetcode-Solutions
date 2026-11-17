@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1206-design-skiplist](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1206-design-skiplist) |
 | [1472-design-browser-history](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Math
 |  |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0707-design-linked-list) |
+| [1206-design-skiplist](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1206-design-skiplist) |
 | [1472-design-browser-history](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Iterator
