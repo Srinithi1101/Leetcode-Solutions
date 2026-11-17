@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
