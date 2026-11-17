@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Hamiltonian Path
 |  |
 | ------- |
