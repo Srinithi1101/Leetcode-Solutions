@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0705-design-hashset](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Iterator
 |  |
