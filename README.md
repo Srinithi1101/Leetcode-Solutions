@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0806-number-of-lines-to-write-string](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1143-longest-common-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
