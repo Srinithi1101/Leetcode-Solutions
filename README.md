@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [1207-unique-number-of-occurrences](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1396-design-underground-system](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1396-design-underground-system) |
 ## String
 |  |
