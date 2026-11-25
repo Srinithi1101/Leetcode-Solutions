@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Srinithi1101/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
